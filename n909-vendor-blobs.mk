@@ -60,7 +60,7 @@ PRODUCT_COPY_FILES += \
 #hw
 PRODUCT_COPY_FILES += \
     vendor/zte/n909/proprietary/lib/hw/camera.msm7627a.so:system/lib/hw/camera.msm7627a.so \
-    vendor/zte/n909/proprietary/lib/hw/camera.msm7627a.so:system/lib/hw/camera.msm7x27a.so \
+    vendor/zte/n909/proprietary/lib/hw/camera.msm7x27a.so:system/lib/hw/camera.msm7x27a.so \
     vendor/zte/n909/proprietary/lib/hw/sensors.msm8x25q_skud_zjl.so:system/lib/hw/sensors.msm8x25q_skud_zjl.so \
     vendor/zte/n909/proprietary/lib/hw/sensors.msm8x25q_skue.so:system/lib/hw/sensors.msm8x25q_skue.so \
     vendor/zte/n909/proprietary/lib/hw/sensors.msm7627a_sku7.so:system/lib/hw/sensors.msm7627a_sku7.so \
