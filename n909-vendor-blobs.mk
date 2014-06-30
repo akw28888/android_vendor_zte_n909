@@ -24,7 +24,6 @@ PRODUCT_COPY_FILES += \
     vendor/zte/n909/proprietary/bin/qmuxd:system/bin/qmuxd \
     vendor/zte/n909/proprietary/bin/rild:system/bin/rild \
     vendor/zte/n909/proprietary/bin/thermald:system/bin/thermald \
-    vendor/zte/n909/proprietary/bin/wlan_detect:system/bin/wlan_detect \
     vendor/zte/n909/proprietary/bin/abtfilt:system/bin/abtfilt \
     vendor/zte/n909/proprietary/bin/akmd8962:system/bin/akmd8962 \
     vendor/zte/n909/proprietary/bin/akmd8963:system/bin/akmd8963 \
