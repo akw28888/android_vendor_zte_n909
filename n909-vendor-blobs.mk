@@ -45,8 +45,10 @@ PRODUCT_COPY_FILES += \
     vendor/zte/n909/proprietary/bin/v4l2-qcamera-app:system/bin/v4l2-qcamera-app \
     vendor/zte/n909/proprietary/bin/write_NV_114:system/bin/write_NV_114 \
     vendor/zte/n909/proprietary/bin/fm_qsoc_patches:system/bin/fm_qsoc_patches \
-    vendor/zte/n909/proprietary/bin/fmconfig:system/bin/fmconfig
-
+    vendor/zte/n909/proprietary/bin/fmconfig:system/bin/fmconfig \
+    vendor/zte/n909/proprietary/bin/usbhub:system/bin/usbhub \
+    vendor/zte/n909/proprietary/bin/usbhub_init:system/bin/usbhub_init
+ 
 #egl
 PRODUCT_COPY_FILES += \
     vendor/zte/n909/proprietary/lib/egl/eglsubAndroid.so:system/lib/egl/eglsubAndroid.so \
