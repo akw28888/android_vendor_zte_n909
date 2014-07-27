@@ -255,9 +255,9 @@ PRODUCT_COPY_FILES += \
     vendor/zte/n909/proprietary/lib/qnet-plugin.so:system/lib/qnet-plugin.so
 
 #wifi driver
-#PRODUCT_COPY_FILES += \
-#    vendor/zte/n909/proprietary/lib/modules/ath6kl/ath6kl_sdio.ko:system/lib/modules/ath6kl/ath6kl_sdio.ko \
-#    vendor/zte/n909/proprietary/lib/modules/ath6kl/cfg80211.ko:system/lib/modules/ath6kl/cfg80211.ko 
+PRODUCT_COPY_FILES += \
+    vendor/zte/n909/proprietary/lib/modules/ath6kl/ath6kl_sdio.ko:system/lib/modules/ath6kl/ath6kl_sdio.ko \
+    vendor/zte/n909/proprietary/lib/modules/ath6kl/cfg80211.ko:system/lib/modules/ath6kl/cfg80211.ko 
 
 #etc
 PRODUCT_COPY_FILES += \
