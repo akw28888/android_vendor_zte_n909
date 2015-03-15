@@ -244,6 +244,7 @@ PRODUCT_COPY_FILES += \
     vendor/zte/n909/proprietary/lib/libOmxVp8Dec.so:system/lib/libOmxVp8Dec.so \
     vendor/zte/n909/proprietary/lib/libOmxWmaDec.so:system/lib/libOmxWmaDec.so \
     vendor/zte/n909/proprietary/lib/libOmxWmvDec.so:system/lib/libOmxWmvDec.so \
+    vendor/zte/n909/proprietary/lib/libOpenCL.so:system/lib/libOpenCL.so \
     vendor/zte/n909/proprietary/lib/libOpenVG.so:system/lib/libOpenVG.so \
     vendor/zte/n909/proprietary/lib/libqc-opt.so:system/lib/libqc-opt.so \
     vendor/zte/n909/proprietary/lib/libqueue.so:system/lib/libqueue.so \
