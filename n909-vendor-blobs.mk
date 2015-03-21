@@ -121,6 +121,9 @@ PRODUCT_COPY_FILES += \
     vendor/zte/n909/proprietary/lib/libaudioalsa.so:obj/lib/libaudioalsa.so \
     vendor/zte/n909/proprietary/lib/libaudioalsa.so:system/lib/libaudioalsa.so \
     vendor/zte/n909/proprietary/lib/libaudioeq.so:system/lib/libaudioeq.so \
+	vendor/zte/n909/proprietary/lib/libchromatix_ar0542_default_video.so:system/lib/libchromatix_ar0542_default_video.so \
+    vendor/zte/n909/proprietary/lib/libchromatix_ar0542_preview.so:system/lib/libchromatix_ar0542_preview.so \
+    vendor/zte/n909/proprietary/lib/libchromatix_ar0542_video_hfr.so:system/lib/libchromatix_ar0542_video_hfr.so \
     vendor/zte/n909/proprietary/lib/libchromatix_hi542_default_video.so:system/lib/libchromatix_hi542_default_video.so \
     vendor/zte/n909/proprietary/lib/libchromatix_hi542_preview.so:system/lib/libchromatix_hi542_preview.so \
     vendor/zte/n909/proprietary/lib/libchromatix_imx074_default_video.so:system/lib/libchromatix_imx074_default_video.so \
@@ -145,6 +148,10 @@ PRODUCT_COPY_FILES += \
     vendor/zte/n909/proprietary/lib/libchromatix_ov2720_preview.so:system/lib/libchromatix_ov2720_preview.so \
     vendor/zte/n909/proprietary/lib/libchromatix_ov2720_zsl.so:system/lib/libchromatix_ov2720_zsl.so \
     vendor/zte/n909/proprietary/lib/libchromatix_ov5647_default_video.so:system/lib/libchromatix_ov5647_default_video.so \
+	vendor/zte/n909/proprietary/lib/libchromatix_ov5647_default_video.so:system/lib/libchromatix_ov5647_default_video.so \
+	vendor/zte/n909/proprietary/lib/libchromatix_ov5647_truly_cm6868_default_video.so:system/lib/libchromatix_ov5647_truly_cm6868_default_video.so \
+	vendor/zte/n909/proprietary/lib/libchromatix_ov5647_truly_cm6868_preview.so:system/lib/libchromatix_ov5647_truly_cm6868_preview.so \
+	vendor/zte/n909/proprietary/lib/libchromatix_ov5647_truly_cm6868_video_hfr.so:system/lib/libchromatix_ov5647_truly_cm6868_video_hfr.so \
     vendor/zte/n909/proprietary/lib/libchromatix_ov5647_ff_default_video.so:system/lib/libchromatix_ov5647_ff_default_video.so \
     vendor/zte/n909/proprietary/lib/libchromatix_ov5647_ff_preview.so:system/lib/libchromatix_ov5647_ff_preview.so \
     vendor/zte/n909/proprietary/lib/libchromatix_ov5647_ff_video_hfr.so:system/lib/libchromatix_ov5647_ff_video_hfr.so \
@@ -155,6 +162,9 @@ PRODUCT_COPY_FILES += \
     vendor/zte/n909/proprietary/lib/libchromatix_ov5648_truly_cm7500pip_default_video.so:system/lib/libchromatix_ov5648_truly_cm7500pip_default_video.so \
     vendor/zte/n909/proprietary/lib/libchromatix_ov5648_truly_cm7500pip_preview.so:system/lib/libchromatix_ov5648_truly_cm7500pip_preview.so \
     vendor/zte/n909/proprietary/lib/libchromatix_ov5648_truly_cm7500pip_video_hfr.so:system/lib/libchromatix_ov5648_truly_cm7500pip_video_hfr.so \
+    vendor/zte/n909/proprietary/lib/libchromatix_ov5648_truly_cm8352_default_video.so:system/lib/libchromatix_ov5648_truly_cm8352_default_video.so \
+    vendor/zte/n909/proprietary/lib/libchromatix_ov5648_truly_cm8352_preview.so:system/lib/libchromatix_ov5648_truly_cm8352_preview.so \
+    vendor/zte/n909/proprietary/lib/libchromatix_ov5648_truly_cm8352_video_hfr.so:system/lib/libchromatix_ov5648_truly_cm8352_video_hfr.so \
     vendor/zte/n909/proprietary/lib/libchromatix_ov5648_video_hfr.so:system/lib/libchromatix_ov5648_video_hfr.so \
     vendor/zte/n909/proprietary/lib/libchromatix_ov7695_raw_default_video.so:system/lib/libchromatix_ov7695_raw_default_video.so \
     vendor/zte/n909/proprietary/lib/libchromatix_ov7695_raw_preview.so:system/lib/libchromatix_ov7695_raw_preview.so \
@@ -175,6 +185,9 @@ PRODUCT_COPY_FILES += \
     vendor/zte/n909/proprietary/lib/libchromatix_s5k4e1_3_preview.so:system/lib/libchromatix_s5k4e1_3_preview.so \
     vendor/zte/n909/proprietary/lib/libchromatix_s5k4e1_default_video.so:system/lib/libchromatix_s5k4e1_default_video.so \
     vendor/zte/n909/proprietary/lib/libchromatix_s5k4e1_preview.so:system/lib/libchromatix_s5k4e1_preview.so \
+    vendor/zte/n909/proprietary/lib/libchromatix_t4k04_default_video.so:system/lib/libchromatix_t4k04_default_video.so \
+    vendor/zte/n909/proprietary/lib/libchromatix_t4k04_preview.so:system/lib/libchromatix_t4k04_preview.so \
+
     vendor/zte/n909/proprietary/lib/libchromatix_vx6953_default_video.so:system/lib/libchromatix_vx6953_default_video.so \
     vendor/zte/n909/proprietary/lib/libchromatix_vx6953_preview.so:system/lib/libchromatix_vx6953_preview.so \
     vendor/zte/n909/proprietary/lib/libcommondefs.so:system/lib/libcommondefs.so \
