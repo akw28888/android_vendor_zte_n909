@@ -210,6 +210,10 @@ PRODUCT_COPY_FILES += \
     vendor/zte/n909/proprietary/lib/libloc_ext.so:system/lib/libloc_ext.so \
     vendor/zte/n909/proprietary/lib/libmm-abl-oem.so:system/lib/libmm-abl-oem.so \
     vendor/zte/n909/proprietary/lib/libmm-abl.so:system/lib/libmm-abl.so \
+    vendor/zte/n909/proprietary/lib/libmm-color-convertor.so:system/lib/libmm-color-convertor.so \
+	vendor/zte/n909/proprietary/lib/libmm-omxcore.so:system/lib/libmm-omxcore.so \
+	vendor/zte/n909/proprietary/lib/libmmgsdisessionlib.so:system/lib/libmmgsdisessionlib.so \
+	vendor/zte/n909/proprietary/lib/libmmrtpdecoder.so:system/lib/libmmrtpdecoder.so \
     vendor/zte/n909/proprietary/lib/libmm-adspsvc.so:system/lib/libmm-adspsvc.so \
     vendor/zte/n909/proprietary/lib/libmm-audio-resampler.so:system/lib/libmm-audio-resampler.so \
     vendor/zte/n909/proprietary/lib/libmmcamera_faceproc.so:system/lib/libmmcamera_faceproc.so \
